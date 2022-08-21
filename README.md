@@ -15,10 +15,11 @@ This is a simple way for deploying on server using flask, gunicorn and docker
 
 ### Commands
 ```
-0. give permission like sudo chmod 777 /var/run/docker.sock to allow connection
-1. cd directory where your project is
-2. docker-compose build
-3. docker-compose up
+0. Have a projet on local machine : git clone https://github.com/Fomba-Daouda/dashbord_pubmed.git
+1. give permission like sudo chmod 777 /var/run/docker.sock to allow connection
+2. cd directory where your project is
+3. docker-compose build
+4. docker-compose up
 ```
 Then, If you built it localy visit: 127.0.0.1:5000 otherwise, use your server ip xxx.xxx.xxx.xxx:5000 to see the dashboard.
 
