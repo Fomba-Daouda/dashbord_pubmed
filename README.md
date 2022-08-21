@@ -1,6 +1,6 @@
 ****Running with docker*****
 
-## Configure and run TER project by Armel Sanou
+## Configure and run TER project by Daouda Fomba
 
 This is a simple way for deploying on server using flask, gunicorn and docker
 
